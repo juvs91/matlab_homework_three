@@ -58,3 +58,4 @@ assertEqual(forInteractiveUse, y_venctor, 100 .* cos([-10:.1:10]));
 %plot(sin_x_vecotr, sin_y_venctor, cos_x_vecotr, cos_y_venctor)
 
 %sixteen plot ten, eleven.twelve, using drawnow and adding axis function
+% https://www.mathworks.com/help/matlab/ref/axis.html
